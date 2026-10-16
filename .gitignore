@@ -1,4 +1,7 @@
-output-dir/
+input-dir/*
+!input-dir/.gitkeep
+output-dir/*
+!output-dir/.gitkeep
 __pycache__/
 *.pyc
 .DS_Store
